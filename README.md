@@ -25,11 +25,11 @@ Hackathon: BramHacks Sustainability Challenge
 Score: 95%
 Build Time: < 2 days
 
-## 🌍 Mission
+# Mission🌍
 
 Protect land, people, water, and ecosystems before disturbance — supporting a just, community-first clean energy transition.
 
-## 🚀 How LYTHOS Works
+# How LYTHOS Works🚀
 
 We fuse three satellite Earth Observation sources into a siting intelligence stack:
 
@@ -39,8 +39,8 @@ GEDI	Forest canopy height + biomass proxies	Biodiversity sensitivity & habitat f
 GRACE-FO	Groundwater anomaly stress	Avoids high water stress + watershed risk
 
 Live map layers are visualized with Leaflet, WMTS tiles, and OSM base layers.
-
-## 🧭 Demo Regions
+ 
+# Demo Regions🧭
 
 Northern Ontario Nickel Belt — Sudbury / Timmins
 
@@ -48,12 +48,12 @@ NWT Lithium Potential — permafrost + caribou corridor sensitivity
 
 These regional prototypes demonstrate how mineral opportunities + environmental guardrails can co-exist.
 
-##🧑‍🤝‍🧑 Social & Policy Centered
+# Social & Policy Centered🧑‍🤝‍🧑
 
 LYTHOS places Indigenous rights, ecological protection, water safety, and community impact ahead of extraction economics.
 Cleaner energy cannot repeat historical harm; LYTHOS prevents it before exploration even begins.
 
-##💡 Impact
+# Impact💡
 
 Reduces wasted exploration spend by flagging no-go zones early
 
@@ -63,7 +63,7 @@ Strengthens climate justice + long-term planetary resilience
 
 Built end-to-end under extreme time pressure → sharpened rapid prototyping, time management, and problem-solving skills
 
-🛠️ Tech Stack
+# Tech Stack 🛠️
 
 Leaflet.js (map layers / UI)
 
@@ -73,7 +73,7 @@ JavaScript / Python preprocessing
 
 OpenStreetMap base tiles
 
-📌 Future Roadmap
+# Future Roadmap 📌 
 
 Seasonal windows + permafrost physical stability modeling
 
@@ -83,6 +83,4 @@ ESG screening API for investors / gov planning
 
 Policy tooling for provincial & federal level decision support
 
-Author
-
-Asma Ahmed — Product Lead / Data + AI Engineer
+# Author: Asma Ahmed — Product Lead / Data + AI Engineer
